@@ -1,0 +1,86 @@
+div#a h1
+{
+	color:black;
+	font-family:High Tower Text;
+    text-align: center;
+    font-size: 40px;
+}
+div#a h3
+{
+	color:#101010;
+	text-align: center;
+    margin-left: 150px;
+    font-family:High Tower Text;
+}
+a#b
+{
+	color:deeppink;
+	font-size:30px;
+}
+
+h2#c
+{
+	color:black;
+	font-family:High Tower Text;
+    text-align: center;
+    font-size: 40px;
+	margin-top:150px;
+}
+ul#nav
+{
+	color:white;
+	font-family:Bell MT;
+	font-size:20px;
+}
+#nav1
+{
+	color:white;
+	font-family:Bell MT;
+	font-size:25px;
+}
+span#m
+{
+	color:red;
+	font-weight:bold;
+}
+div#div1 p
+{
+	color:black;
+	font-family:Book Antiqua;
+	font-size:20px;
+	text-align:justify;
+}
+ul#bullets{
+    list-style-image: url('http://res.cloudinary.com/dznzzmfbs/image/upload/v1521895526/check_mapppp.png');
+	color:black;
+	font-family:Book Antiqua;
+	font-size:20px;
+}
+div#div3 table
+{
+	color:black;
+	font-family:Book Antiqua;
+	font-size:20px;
+}
+h2#head
+{
+	color:black;
+	font-family:Book Antiqua;
+}	
+p#last
+{
+	font-size:20px;
+	font-family:Footlight MT;
+}
+div#l
+{
+	float:left;
+}
+.sp{
+    padding-left: 50px;
+    margin-right: 10px;
+    max-width: 900px;
+    max-height: 800px;
+    float: right;
+}
+
